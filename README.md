@@ -1,5 +1,5 @@
 ![Header](https://github.com/MerseysideRed/MerseysideRed/blob/main/assets/software-g109c720f2_640.jpg)
-## I'm a QA Engineer with 1,5+ years experience. 
+## Hello! I'm a QA Engineer with 1,5+ years experience. 
 ## My CV
 [Link to my CV]
 
