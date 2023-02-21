@@ -1,4 +1,4 @@
-[![Header](https://github.com/MerseysideRed/MerseysideRed/blob/main/assets/software-gfb5fd8b06_1920.jpg)]
+![Header](https://github.com/MerseysideRed/MerseysideRed/blob/main/assets/software-gfb5fd8b06_1920.jpg)
 ## Я тестировщик с 1,5+ годами опыта. 
 ## Мое резюме
 [Link to my CV]
