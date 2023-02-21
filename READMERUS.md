@@ -1,11 +1,11 @@
 
-## I'm a QA Engineer with 1,5+ years experience. 
-## My CV
+## Я тестировщик с 1,5+ годами опыта. 
+## Мое резюме
 [Link to my CV]
 
 
 
-### Tools
+### Инструменты
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
@@ -16,7 +16,7 @@
 ![Header](https://img.shields.io/badge/AllureTestOps-090909?style=for-the-badge&logo=&logoColor=2FCD69)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
-### Testing Documentation
+### Тестовая документация
 
 - [Checklists]
 - [Test-Cases]
