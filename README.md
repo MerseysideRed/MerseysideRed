@@ -1,4 +1,4 @@
-[![Header](https://github.com/MerseysideRed/MerseysideRed/blob/main/assets/software-gfb5fd8b06_1920.jpg]
+[![Header](https://github.com/MerseysideRed/MerseysideRed/blob/main/assets/software-gfb5fd8b06_1920.jpg)]
 ## I'm a QA Engineer with 1,5+ years experience. 
 ## My CV
 [Link to my CV]
