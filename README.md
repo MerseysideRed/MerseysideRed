@@ -18,7 +18,7 @@
 
 ### Testing Documentation
 
-- [Checklist] (https://github.com/MerseysideRed/Check-list)
+- [Checklist](https://github.com/MerseysideRed/Check-list)
 - [Test-Cases]
 - [Bug-Reports]
 - [SQL Queries]
