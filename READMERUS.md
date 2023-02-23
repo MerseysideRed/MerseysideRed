@@ -18,7 +18,7 @@
 
 ### Тестовая документация
 
-- [Checklists]
+- [Checklist] (https://github.com/MerseysideRed/Check-list_rus)
 - [Test-Cases]
 - [Bug-Reports]
 - [SQL Queries]
