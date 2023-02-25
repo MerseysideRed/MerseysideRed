@@ -18,8 +18,8 @@
 
 ### Тестовая документация
 
-- [Checklist](https://github.com/MerseysideRed/Check-list_rus)
-- [Test-Cases]
-- [Bug-Reports]
-- [SQL Queries]
-- [Postman Collections]
+- [Чек-лист](https://github.com/MerseysideRed/Check-list_rus)
+- [Тест-кейсы](https://github.com/MerseysideRed/Test-cases_rus)
+- [Баг-репорты]
+- [SQL запросы]
+- [Коллекции Postman]
