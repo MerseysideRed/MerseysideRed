@@ -19,7 +19,7 @@
 ### Testing Documentation
 
 - [Checklist](https://github.com/MerseysideRed/Check-list)
-- [Test-Cases]
+- [Test-Cases](https://github.com/MerseysideRed/Test-cases)
 - [Bug-Reports]
 - [SQL Queries]
 - [Postman Collections]
