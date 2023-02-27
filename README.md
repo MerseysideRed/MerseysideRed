@@ -20,6 +20,6 @@
 
 - [Checklist](https://github.com/MerseysideRed/Check-list)
 - [Test-Cases](https://github.com/MerseysideRed/Test-cases)
-- [Bug-Reports]
+- [Bug-Reports](https://github.com/MerseysideRed/Bug-reports)
 - [SQL Queries]
 - [Postman Collections]
