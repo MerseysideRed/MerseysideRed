@@ -22,4 +22,4 @@
 - [Тест-кейсы](https://github.com/MerseysideRed/Test-cases_rus)
 - [Баг-репорты](https://github.com/MerseysideRed/Bug-reports_rus)
 - [SQL запросы](https://github.com/MerseysideRed/SQL_queries_rus.git)
-- [Коллекции Postman]
+- [Коллекция Postman](https://github.com/MerseysideRed/Postman_collection.git)
