@@ -22,4 +22,4 @@
 - [Test-Cases](https://github.com/MerseysideRed/Test-cases)
 - [Bug-Reports](https://github.com/MerseysideRed/Bug-reports)
 - [SQL Queries](https://github.com/MerseysideRed/SQL_queries.git)
-- [Postman Collections]
+- [Postman Collection](https://github.com/MerseysideRed/Postman_collection.git)
