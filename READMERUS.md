@@ -1,7 +1,7 @@
 ![Header](https://github.com/MerseysideRed/MerseysideRed/blob/main/assets/pic_rus.png)
-## Привет! Я тестировщик с 1,5+ годами опыта. 
+## Привет! Я тестировщик с 2+ годами опыта. 
 ## Мое резюме
-[Link to my CV]
+[Ссылка на мое CV](https://www.linkedin.com/in/aliaksei-ramanouski/overlay/1635528627841/single-media-viewer/?profileId=ACoAADCWAKsBspIzkOcx1NYzJnfrM-d5FFdLfHI)
 
 
 
