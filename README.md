@@ -1,7 +1,7 @@
 ![Header](https://github.com/MerseysideRed/MerseysideRed/blob/main/assets/pic_eng.png)
-## Hello! I'm a QA Engineer with 2+ years experience. 
+## Hello! I'm a QA Engineer with 4 years experience. 
 ## My CV
-[Link to my CV](https://www.linkedin.com/in/aliaksei-ramanouski/overlay/1635528628824/single-media-viewer/?profileId=ACoAADCWAKsBspIzkOcx1NYzJnfrM-d5FFdLfHI)
+[Link to my CV](https://www.linkedin.com/in/aliaksei-ramanouski/overlay/1747257039942/single-media-viewer/?profileId=ACoAADCWAKsBspIzkOcx1NYzJnfrM-d5FFdLfHI)
 
 
 
